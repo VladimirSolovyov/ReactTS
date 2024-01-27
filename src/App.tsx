@@ -41,5 +41,3 @@ function App() {
 }
 
 export default App
-
-//https://www.youtube.com/watch?v=92qcfeWxtnY&ab_channel=UlbiTV 13:25
